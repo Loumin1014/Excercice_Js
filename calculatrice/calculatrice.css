@@ -1,0 +1,41 @@
+.title {
+    font-size: 25px;
+    font-style: italic;
+    font-family: sans-serif;
+    color: rgb(212, 8, 212);
+}
+
+#case {
+    height: 37px;
+    width: 200px;
+    border: 2px solid rgb(78, 11, 78);
+    border-radius: 10px;
+}
+
+.number {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid rgb(78, 11, 78);
+    border-radius: 10px;
+    background-color: rgb(212, 8, 212);
+}
+
+.number:hover {
+    background-color: rgb(78, 11, 78);
+}
+
+.operator {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    color: white;
+    border: 2px solid rgb(78, 11, 78);
+    border-radius: 10px;
+    background-color: rgb(212, 8, 212);
+}
+
+.operator:hover {
+    background-color: rgb(78, 11, 78);
+}
